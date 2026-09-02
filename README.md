@@ -81,7 +81,6 @@
 | 🏢 **MacroHype LLC** | [macrohype.com](https://macrohype.com) | US digital marketing agency official company platform | WordPress, Core Web Vitals, SEO |
 | 🎨 **Addiz Tech** | [addiztech.com](https://addiztech.com) | High-performance agency website with advanced animations | WordPress, GSAP, PHP |
 | 🌸 **Tribe Fragrances** | [tribefragrances.com](https://tribefragrances.com) | High-converting e-commerce store with custom payment setup | Shopify, Liquid, E-Commerce |
-| 🎯 **Rehman Siddiq** | [rehmansiddiq.com](https://rehmansiddiq.com) | Personal brand website with automated CRM & funnels | GoHighLevel, CRM Automation |
 | 🏛️ **Herencia Ancestral** | [herenciaancestral.com](https://herenciaancestral.com) | Visually rich cultural brand website with responsive design | WordPress, Custom Theme |
 
 ---
@@ -107,10 +106,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamzafaiz17)
 [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzafaiz785@gmail.com)
 
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Designed with ❤️ for Hamza Faiz | Full Stack Developer & Founder</sub>
 </div>
