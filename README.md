@@ -19,7 +19,7 @@
 
 - 🚀 **Founder & CEO @ [Marcamen](https://github.com/hamzafaiz17):** Building scalable SaaS platforms (like [InvoicesNest.com](https://invoicesnest.com)), custom Shopify apps, and modern digital products.
 - 💼 **Full-Stack & Web Specialist @ MacroHype LLC:** Building and optimizing high-performance web applications and e-commerce stores for US-based agency clients.
-- 🛠️ **Experience:** 4+ Years in Web Engineering | 500+ Projects delivered worldwide | 2+ Years Full-Stack JavaScript & Next.js.
+- 🛠️ **Experience:** 4+ Years in Web Engineering | 150+ Projects delivered worldwide | 2+ Years Full-Stack JavaScript & Next.js.
 - ⚡ **Workflow & Edge:** Modern AI-assisted development (Cursor AI, ChatGPT, Copilot), Core Web Vitals optimization, and high-conversion UI/UX.
 - 🌐 **Location:** Pakistan (Available for remote global opportunities & collaboration).
 - 🔗 **Portfolio:** [hamzafaiz.com](https://hamzafaiz.com)
