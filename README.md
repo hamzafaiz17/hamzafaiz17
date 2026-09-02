@@ -2,7 +2,7 @@
 
 # 💫 Hamza Faiz
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+%26+SaaS+Developer+🚀;Founder+at+Marcamen+✨;React%2C+Next.js+%26+Node.js+Specialist+💻;Shopify+%26+E-Commerce+Architect+🛍️;Welcome+to+my+GitHub+Profile!+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=50&lines=Founder+%26+CEO+at+Marcamen+🚀;Full-Stack+%26+SaaS+Developer+💻;React%2C+Next.js+%26+Node.js+Specialist+⚡;Shopify+%26+E-Commerce+Architect+🛍️;Welcome+to+my+GitHub+Profile!+✨)](https://git.io/typing-svg)
 
 <br />
 
@@ -17,10 +17,10 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 **Founder @ [Marcamen](https://github.com/hamzafaiz17):** Building scalable SaaS platforms (like [InvoicesNest.com](https://invoicesnest.com)), custom Shopify apps, and modern digital products.
+- 🚀 **Founder & CEO @ [Marcamen](https://github.com/hamzafaiz17):** Building scalable SaaS platforms (like [InvoicesNest.com](https://invoicesnest.com)), custom Shopify apps, and modern digital products.
 - 💼 **Full-Stack & Web Specialist @ MacroHype LLC:** Building and optimizing high-performance web applications and e-commerce stores for US-based agency clients.
 - 🛠️ **Experience:** 4+ Years in Web Engineering | 50+ Projects delivered worldwide | 2+ Years Full-Stack JavaScript & Next.js.
-- ⚡ **Workflow & Edge:** Modern AI-assisted development (Cursor AI, Copilot), Core Web Vitals optimization, and high-conversion UI/UX.
+- ⚡ **Workflow & Edge:** Modern AI-assisted development (Cursor AI, ChatGPT, Copilot), Core Web Vitals optimization, and high-conversion UI/UX.
 - 🌐 **Location:** Pakistan (Available for remote global opportunities & collaboration).
 - 🔗 **Portfolio:** [hamzafaiz.com](https://hamzafaiz.com)
 
@@ -52,12 +52,15 @@
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge&logo=gohighlevel&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
-#### **Tooling & Workflow**
+#### **AI Tools & Developer Workflow**
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/GA4_&_GTM-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![GA4 & GTM](https://img.shields.io/badge/GA4_&_GTM-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ---
 
@@ -65,7 +68,11 @@
 
 <div align="center">
 
-![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzafaiz17&theme=tokyo-night&hide_border=true)
+![Hamza Faiz Contribution Graph](https://ghchart.rshah.org/2563EB/hamzafaiz17)
+
+<br />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamzafaiz17&theme=tokyo-night&hide_border=true)](https://github.com/hamzafaiz17)
 
 </div>
 
@@ -87,7 +94,7 @@
 
 ### 💼 Work Experience Timeline
 
-- 🏢 **Founder @ Marcamen** *(2023 – Present)*  
+- 🏢 **Founder & CEO @ Marcamen** *(2023 – Present)*  
   *Building SaaS platforms (InvoicesNest.com), Shopify Apps, and AI-accelerated web solutions.*
 - 🚀 **Web Developer @ MacroHype LLC** *(2024 – Present)*  
   *Delivering WordPress, Shopify, and GoHighLevel web systems for US clients with Core Web Vitals focus.*
